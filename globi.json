@@ -1,7 +1,9 @@
 { "citation": "Wood SA, Russell R, Hanson D, Williams RJ, Dunne JA (2015) Data from: Effects of spatial scale of sampling on food web structure. Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.g1qr6",
   "doi": "http://dx.doi.org/10.5061/dryad.g1qr6",
   "format": "wood",
-  "archiveURL": "http://datadryad.org/bitstream/handle/10255/dryad.93018/WoodEtal_Append1_v2.csv",
+  "resources": {
+    "links": "http://datadryad.org/bitstream/handle/10255/dryad.93018/WoodEtal_Append1_v2.csv"  
+  },
   "location": {
     "locality": {
       "id": "GEONAMES:5873327",
